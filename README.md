@@ -6,6 +6,10 @@ Centralized system documentation, reliability checklists, and post-mortem experi
 
 
 infrastructure-docs/
-├── README.md                    # Core documentation index
-├── Project_1                # (Заполняется по мере работы)
-├── Project_2                # (Заполняется по мере работы)
+
+
+Project_1                # (Заполняется по мере работы)
+
+
+Project_2                # (Заполняется по мере работы)
+
